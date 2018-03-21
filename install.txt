@@ -1,0 +1,5 @@
+fest-swing-1.2.jar 
+lib/fest-assert-1.2.jar 
+lib/fest-reflect-1.2.jar 
+lib/fest-util-1.1.2.jar 
+lib/hamcrest-core-1.3
